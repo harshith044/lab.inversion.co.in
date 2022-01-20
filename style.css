@@ -1,0 +1,82 @@
+body{
+  background-color: lightblue;
+}
+
+h1{
+  color: #fff;
+}
+
+.carousel-item{
+  color: #000;
+  font-family: "Montserrat-Black";
+}
+#slider{
+  background-color: #406882;
+  padding: 2% 15%;
+  text-align: center;
+}
+
+.slider-image1{
+  width: 40%;
+}
+
+.slider-image2{
+  width: 25%;
+
+}
+
+#sponsors{
+  text-align: center;
+  padding-bottom: 3%;
+  margin: 20px 20px 50px;
+}
+
+/*Blog*/
+
+#about{
+  background-color: #FFF1BD;
+}
+
+.first-img{
+  border-radius: 100%;
+  width: 10%;
+  height: 10%;
+  float: left;
+  text-align: center;
+  display: inline-block;
+  margin: 40px 40px 20px ;
+}
+
+.aboutus{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+#content {
+ width:50%;
+ margin-left: auto ;
+ margin-right:auto ;
+ }
+
+.first-blog{
+  margin: 40px 40px 20px;
+  text-align: center;
+  position: relative;
+
+}
+
+.open-image{
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.smoke-shot{
+  float: right;
+  padding: 20px;
+}
+/*Footer section*/
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #fff;
+}
